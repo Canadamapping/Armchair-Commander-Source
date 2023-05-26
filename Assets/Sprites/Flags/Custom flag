@@ -1,0 +1,3 @@
+<h1>Country name</h1>
+<Input id="Custom-country" type="text" placeholder="Country name"/>
+<button id="submit">submit</button>
